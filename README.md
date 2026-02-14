@@ -57,7 +57,7 @@
 
 ## Currently
 
-- Open to UX Engineer / UI Engineer / Frontend roles
+- UX Engineer / UI Engineer / Frontend roles
 - Focused on design systems and accessibility
 - Exploring thoughtful AI integrations in UI workflows
 
