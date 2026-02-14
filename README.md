@@ -1,39 +1,65 @@
 # Hi, I'm Mirabelle 
 
-## UX Frontend Engineer | AI-Augmented Workflow Advocate
-
-I build modern web applications using the latest tools and practices - including AI-assisted development. I believe in transparency about my development process and showcase real-world problem-solving skills.
-
----
-
-## My Development Philosophy
-
-I use AI tools (Claude, GitHub Copilot, ChatGPT, to name a few) as productivity multipliers - like Stack Overflow or pair programming, but faster. I can explain every line of code, debug independently, and extend functionality without assistance.
-
-- **AI helps with:** Scaffolding, debugging, learning APIs, refactoring  
-- **I provide:** Architecture, problem-solving, testing, production deployment
+## UX Engineer | Design Systems & React  
+**Building accessible, scalable UI systems from design to production.**
 
 ## Tech Stack
 
-- **Frontend:** React, React Native, TypeScript, Tailwind CSS  
-- **Backend:** Node.js, Go, Express, REST APIs, Subapase  
-- **Data:** PostgreSQL, pgvector, Supabase  
-- **AI/ML:** RAG systems, OpenAI API, Anthropic Claude, MCP  
-- **Tools:** Git, GitHub API, Docker, Vite
+### Frontend Technologies
 
-## Featured Projects
+- React.js
+- TypeScript
+- JavaScript
+- HTML / CSS
+- Node.js
+- REST APIs
+- React Native
 
-Check my pinned repositories below. Each includes detailed technical decisions, challenges, and solutions.
+### UX / UI Engineering
 
----
+- Figma → Code translation
+- Responsive interfaces
+- Interaction patterns
+- Progressive disclosure
+- Information architecture
+
+### Design Systems
+
+- React component libraries
+- Design token architecture
+- Storybook documentation
+- Multi-brand theming
+- Component API design
+
+### Accessibility
+
+- WCAG 2.1 AA compliance
+- Keyboard navigation
+- Screen reader support
+- Focus management
+- Semantic HTML
+
+### AI Integration
+
+- MCP server development
+- AI agent architecture
+- RAG-powered documentation
+- Workflow automation
+- Confidence-first UI patterns
+
+
+## What You’ll See in My Projects
+
+- Real-world design system implementation
+- Accessible, production-ready UI
+- Practical AI-assisted developer workflows
+- Clear documentation and technical reasoning
 
 ## Currently
 
-- **Seeking:** UX Frontend development roles  
-- **Learning:** Vector databases, MCP protocol, more AI intergrations approach
-- **Building:** Tools bridging design and engineering workflows using advanced React patterns
-
----
+- Open to UX Engineer / UI Engineer / Frontend roles
+- Focused on design systems and accessibility
+- Exploring thoughtful AI integrations in UI workflows
 
 ## Let's Connect
 
@@ -46,3 +72,4 @@ Check my pinned repositories below. Each includes detailed technical decisions, 
 
 - I document AI usage transparently. Every project represents problems I solved, code I understand deeply, and modern development practices. 
 - Check project READMEs for detailed technical breakdowns.
+- Deep Wiki for all projects coming up. 
