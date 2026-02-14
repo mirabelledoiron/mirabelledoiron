@@ -1,7 +1,9 @@
 # Hi, I'm Mirabelle 
 
 ## UX Engineer | Design Systems & React  
-**Building accessible, scalable UI systems from design to production.**
+Building accessible, scalable UI systems from design to production.
+
+I specialize in translating design into production-ready UI, with a focus on accessibility, design systems, and thoughtful user experience.
 
 ## Tech Stack
 
