@@ -65,8 +65,8 @@ I specialize in translating design into production-ready UI, with a focus on acc
 
 ## Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/mirabelle-doiron-84955a28/
 - Portfolio: https://www.mirabelledoiron.com/
+- Linkedin: https://www.linkedin.com/in/mirabelledoiron
 
 ---
 
