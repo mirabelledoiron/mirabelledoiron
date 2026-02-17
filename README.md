@@ -59,7 +59,7 @@ I specialize in translating design into production-ready UI, with a focus on acc
 
 ## Currently
 
-- UX Engineer / UI Engineer / Frontend roles
+- UX Engineer / UI Engineer / Design Systems Frontend roles / Design Technologist
 - Focused on design systems and accessibility
 - Exploring thoughtful AI integrations in UI workflows
 
@@ -68,10 +68,3 @@ I specialize in translating design into production-ready UI, with a focus on acc
 - Portfolio: https://www.mirabelledoiron.com/
 - Linkedin: https://www.linkedin.com/in/mirabelledoiron
 
----
-
-## Note to employers: 
-
-- I document AI usage transparently. Every project represents problems I solved, code I understand deeply, and modern development practices. 
-- Check project READMEs for detailed technical breakdowns.
-- Deep Wiki for all projects coming up. 
