@@ -1,10 +1,10 @@
 # Hi, I'm Mirabelle 
 
-**UX Engineer specializing in Design Systems, React, and Accessibility**  
+**UX Engineer (UXE) | Design Systems**  
 I translate design into production-ready, accessible UI systems.
 
 ## Tech Stack
-**Frontend:** React.js, TypeScript, JavaScript, HTML/CSS, Node.js, REST APIs, React Native  
+**Frontend:** React.js, TypeScript, JavaScript, Tailwind, HTML/CSS, Framer/Motion, Node.js, REST APIs, React Native  
 **UX/UI:** Figma → Code, Responsive Design, Interaction Patterns, Information Architecture  
 **Design Systems:** Component Libraries, Design Tokens, Storybook, Multi-brand Theming  
 **Accessibility:** WCAG 2.1 AA, Keyboard Navigation, Screen Readers, Semantic HTML  
