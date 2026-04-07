@@ -1,17 +1,33 @@
-# Hi, I'm Mirabelle 
+# Bonjour, I'm Mirabelle
 
-**UX Engineer (UXE) | Design Systems**  
-I translate design into production-ready, accessible UI systems.
+**UX Engineer (Design Systems & UI Architecture)**  
+Turning design into scalable, accessible UI systems used in production.
 
-## Tech Stack
-**Frontend:** React.js, TypeScript, JavaScript, Tailwind, HTML/CSS, Framer/Motion, Node.js, REST APIs, React Native  
-**UX/UI:** Figma → Code, Responsive Design, Interaction Patterns, Information Architecture  
-**Design Systems:** Component Libraries, Design Tokens, Storybook, Multi-brand Theming  
-**Accessibility:** WCAG 2.1 AA, Keyboard Navigation, Screen Readers, Semantic HTML  
-**AI Integration:** MCP Servers, AI Agents, RAG Documentation, Workflow Automation
+I build UI infrastructure—components, tokens, and patterns that product teams rely on to ship consistent, high-quality interfaces at scale.
+
+---
+
+## What I Focus On
+- Design systems and component libraries  
+- Design → code translation (Figma to production)  
+- Accessibility built into the system (not added later)  
+- Multi-brand theming and scalable UI architecture  
+- AI-assisted workflows for documentation and development  
+
+---
+
+## Core Stack
+**UI Engineering:** React, TypeScript, HTML/CSS  
+**Systems:** Design Tokens, Storybook, Component APIs, Theming  
+**Accessibility:** WCAG 2.1 AA, Semantic HTML, Keyboard + Screen Reader support  
+**AI (Applied):** RAG systems, MCP servers, workflow automation  
+
+---
 
 ## Currently
-Seeking Design Engineer, UI Engineer, Frontend Engineer (UX/UI), UX Engineer, Design Systems Engineer, Frontend Platform Engineer, or Product Engineer (UI-focused) roles.
+Seeking Design Engineer / UX Engineer roles focused on design systems, UI architecture, and product UI quality.
+
+---
 
 ## Let's Connect
 - Portfolio: https://www.mirabelledoiron.com/
@@ -19,4 +35,5 @@ Seeking Design Engineer, UI Engineer, Frontend Engineer (UX/UI), UX Engineer, De
 
 ---
 
-**Note to employers:** I document AI usage transparently. Every project represents problems I solved and code I understand deeply. Check project READMEs for technical breakdowns.
+**Note on AI:**  
+I use AI as part of how I design and build systems—accelerating exploration, validating edge cases, and automating workflows—while maintaining full ownership of architecture and code.
