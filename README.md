@@ -17,10 +17,13 @@ I build UI infrastructure—components, tokens, and patterns that product teams 
 ---
 
 ## Core Stack
-**UI Engineering:** React, TypeScript, HTML/CSS  
-**Systems:** Design Tokens, Storybook, Component APIs, Theming  
-**Accessibility:** WCAG 2.1 AA, Semantic HTML, Keyboard + Screen Reader support  
-**AI (Applied):** RAG systems, MCP servers, workflow automation  
+
+- **UI Engineering:** React, TypeScript, HTML/CSS, Web Components, Lit  
+- **Systems:** Design Tokens, Storybook, Component APIs, Theming, Multi-brand / White-label  
+- **Accessibility:** WCAG 2.1 AA, Semantic HTML, Keyboard + Screen Reader support, ARIA patterns, Focus management  
+- **Styling:** Tailwind CSS, CSS Architecture, Design Tokens → Styling systems  
+- **Testing:** React Testing Library, Visual Regression, Accessibility testing (axe)  
+- **AI (Applied):** RAG systems, MCP servers, AI agents, workflow automation  
 
 ---
 
