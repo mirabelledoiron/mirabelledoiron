@@ -1,9 +1,9 @@
 # Bonjour, I'm Mirabelle
 
-**UX Design Engineer (Design Systems & UI Architecture)**  
-Turning design into scalable, accessible UI systems used in production.
+**I'm a Design Engineer (Design Systems)**  
+I operate at the intersection of design and engineering—turning design decisions into component APIs, token systems, and production-ready UI infrastructure.
 
-Building UI systems that improve product consistency, accessibility, and development velocity across teams.
+I build scalable UI systems that drive consistency, accessibility, and faster development across teams.
 
 ---
 
