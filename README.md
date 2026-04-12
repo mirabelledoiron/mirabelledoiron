@@ -1,7 +1,8 @@
 # Bonjour, I'm Mirabelle
 
 **I'm a Design Engineer (Design Systems)**  
-I operate at the intersection of design and engineering—turning design decisions into component APIs, token systems, and production-ready UI infrastructure.
+
+I work at the intersection of design and engineering—turning design decisions into component APIs, token systems, and production-ready UI infrastructure.
 
 I build scalable UI systems that drive consistency, accessibility, and faster development across teams.
 
