@@ -1,4 +1,4 @@
-# Bonjour, I'm Mirabelle
+# I'm Mirabelle
 
 **I'm a Design Engineer (Design Systems)**  
 
@@ -47,6 +47,15 @@ Open to Design Engineer / UX Engineer roles focused on design systems, UI archit
 
 ## Philosophy
 I design systems where accessibility, performance, and consistency are built into the foundation—not added later.
+
+---
+
+## Multi Repo System
+1- Mirabelle Design Systems
+2- Mirabelle AI Tools
+3- Mirabelle Applications
+4- Mirabelle Products
+5- Mirabelle Experiments
 
 ---
 
