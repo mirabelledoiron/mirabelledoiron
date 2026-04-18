@@ -1,10 +1,20 @@
 # I'm Mirabelle
 
-**I'm a Design Engineer (Design Systems)**  
+**Design Engineer — Design Systems**  
 
 I work at the intersection of design and engineering—turning design decisions into component APIs, token systems, and production-ready UI infrastructure.
 
 I build scalable UI systems that drive consistency, accessibility, and faster development across teams.
+Those design systems are built into the foundation—not added later.
+
+---
+
+## Multi Repo System
+- 1- [Mirabelle Design Systems](https://github.com/Mirabelle-Design-Systems)
+- 2- [Mirabelle AI Tools](https://github.com/Mirabelle-AI-Tools)
+- 3- [Mirabelle Apps](https://github.com/Mirabelle-Apps)
+- 4- [Mirabelle Products](https://github.com/Mirabelle-Products)
+- 5- [Mirabelle Experiments](https://github.com/Mirabelle-Experiments)
 
 ---
 
@@ -42,20 +52,6 @@ Open to Design Engineer / UX Engineer roles focused on design systems, UI archit
 ## Let's Connect
 - Portfolio: https://www.mirabelledoiron.com/  
 - LinkedIn: https://www.linkedin.com/in/mirabelledoiron  
-
----
-
-## Philosophy
-I design systems where accessibility, performance, and consistency are built into the foundation—not added later.
-
----
-
-## Multi Repo System
-- 1- Mirabelle Design Systems
-- 2- Mirabelle AI Tools
-- 3- Mirabelle Applications
-- 4- Mirabelle Products
-- 5- Mirabelle Experiments
 
 ---
 
