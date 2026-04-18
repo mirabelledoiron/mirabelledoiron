@@ -51,11 +51,11 @@ I design systems where accessibility, performance, and consistency are built int
 ---
 
 ## Multi Repo System
-1- Mirabelle Design Systems
-2- Mirabelle AI Tools
-3- Mirabelle Applications
-4- Mirabelle Products
-5- Mirabelle Experiments
+- 1- Mirabelle Design Systems
+- 2- Mirabelle AI Tools
+- 3- Mirabelle Applications
+- 4- Mirabelle Products
+- 5- Mirabelle Experiments
 
 ---
 
