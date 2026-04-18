@@ -10,11 +10,11 @@ Those design systems are built into the foundation—not added later.
 ---
 
 ## Multi Repo System
-- 1- [Mirabelle Design Systems](https://github.com/Mirabelle-Design-Systems)
-- 2- [Mirabelle AI Tools](https://github.com/Mirabelle-AI-Tools)
-- 3- [Mirabelle Apps](https://github.com/Mirabelle-Apps)
-- 4- [Mirabelle Products](https://github.com/Mirabelle-Products)
-- 5- [Mirabelle Experiments](https://github.com/Mirabelle-Experiments)
+- [Mirabelle Design Systems](https://github.com/Mirabelle-Design-Systems)
+- [Mirabelle AI Tools](https://github.com/Mirabelle-AI-Tools)
+- [Mirabelle Apps](https://github.com/Mirabelle-Apps)
+- [Mirabelle Products](https://github.com/Mirabelle-Products)
+- [Mirabelle Experiments](https://github.com/Mirabelle-Experiments)
 
 ---
 
