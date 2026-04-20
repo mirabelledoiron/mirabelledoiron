@@ -30,8 +30,7 @@ Those design systems are built into the foundation—not added later.
 ---
 
 ## Selected Work
-- **Design-to-Code Bridge** — Figma token extraction → production-ready formats  
-- **Output.ai** — AI-assisted UI + documentation workflows  
+- i am rethinking those today.... back soon
 
 ---
 
