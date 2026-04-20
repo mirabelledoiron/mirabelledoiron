@@ -5,7 +5,7 @@
 I love the intersection of design and engineering. Turning design decisions into component APIs, token systems, and production-ready UI infrastructure. Building scalable UI systems that drive consistency, accessibility, and faster development across teams.
 Those design systems are built into the foundation—not added later.
 
-**Most of my Case-Studies lives under** [Mirabelle-s-Workspace](https://github.com/Mirabelle-Workspace)
+**Most of my Case-Studies lives under** [Mirabelle-Workspace](https://github.com/Mirabelle-Workspace)
 
 ---
 
