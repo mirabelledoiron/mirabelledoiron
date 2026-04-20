@@ -2,8 +2,7 @@
 
 **Design Engineer — Design Systems**  
 
-I love the intersection of design and engineering. Turning design decisions into component APIs, token systems, and production-ready UI infrastructure. Building scalable UI systems that drive consistency, accessibility, and faster development across teams.
-Those design systems are built into the foundation—not added later.
+I love being at the intersection of design and engineering. Turning design into production-ready components, defining how they’re used through clear APIs, and building token systems for consistency across teams. Accessibility is built in from the beginning.
 
 **Most of my Case-Studies lives under** [Mirabelle-Workspace](https://github.com/Mirabelle-Workspace)
 
