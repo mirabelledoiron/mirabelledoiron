@@ -2,10 +2,10 @@
 
 **Design Engineer — Design Systems**  
 
-I work at the intersection of design and engineering—turning design decisions into component APIs, token systems, and production-ready UI infrastructure.
-
-I build scalable UI systems that drive consistency, accessibility, and faster development across teams.
+I love the intersection of design and engineering. Turning design decisions into component APIs, token systems, and production-ready UI infrastructure. Building scalable UI systems that drive consistency, accessibility, and faster development across teams.
 Those design systems are built into the foundation—not added later.
+
+**Most of my Case-Studies lives under** [Mirabelle-s-Workspace](https://github.com/Mirabelle-Workspace)
 
 ---
 
@@ -26,16 +26,6 @@ Those design systems are built into the foundation—not added later.
 - **Styling:** Tailwind CSS, CSS architecture, token-driven styling systems  
 - **Testing:** React Testing Library, Visual Regression, Accessibility testing (axe)  
 - **AI (Applied):** RAG systems for documentation, MCP servers, AI agents, workflow automation  
-
----
-
-## Selected Work
-- i am rethinking those today.... back soon
-
----
-
-## Currently
-Open to Design Engineer / UX Engineer roles focused on design systems, UI architecture, and high-quality product UI.
 
 ---
 
